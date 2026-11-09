@@ -1,0 +1,8 @@
+{
+  "name": "Remix نظام تسيير المطاحن الجزائرية | Minoteries d\u0027Algérie",
+  "description": "برنامج صناعي متكامل لإدارة ومتابعة مطاحن الدقيق والسميد في الجزائر: استلام قبان الحبوب OAIC، مراقبة الصوامع، خطوط الطحن والإنتاج، مخزون الأكياس، توزيع حصص المخابز والفواتير الرسمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
